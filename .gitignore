@@ -1,0 +1,5 @@
+node_modules/
+large-test.log
+*.log
+!tiny-test.log
+*.txt
